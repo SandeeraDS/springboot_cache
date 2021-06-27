@@ -6,13 +6,13 @@ and a unique data model to produce a platform for solving problems.
 
 Redis stores data in _<Key, Value>_ format.
 Redis support various data structures as values:
-`Strings
-Hashes
-Lists
-Sets
-Sorted Sets
-Bitmaps
-Streams
+`Strings,
+Hashes,
+Lists,
+Sets,
+Sorted Sets,
+Bitmaps,
+Streams,
 Geospatial indexes`
 
 _link - https://redis.io/_
